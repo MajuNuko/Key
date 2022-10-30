@@ -79,5 +79,5 @@ end);
                         Title = "Miko.sol V1";
                         Text = "YAY Succes!",
                         Icon = "rbxassetid://9419289467",
-                        Duration = 1
+                        Duration = 5
                     })
